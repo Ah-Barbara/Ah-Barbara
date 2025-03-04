@@ -8,8 +8,16 @@
 </h4>
 
 
+
+
 ## 🤩 Extras: 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ah-Barbara&show_icons=true&theme=transparent)
+<a href="https://github.com/Ah-Barbara/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ah-Barbara" />
+</a>
+<a href="https://github.com/Ah-Barbara/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ah-Barbara&layout=compact&langs_count=8&card_width=320" />
+</a>
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Babx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Babx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
