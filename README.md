@@ -3,7 +3,7 @@
 <h4> 🙋‍♀️ Nome: Bárbara Araujo. <br>
      💻 Estudande de Analise e Desenvolvimento de Sistemas. <br>
      📝 Apaixonada por tecnologia, inovação e resolução de problemas. <br>
-     🍵 Conheciemntos back em Python e PHP. Atualmente estudando Java. <br>
+     🍵 Conhecimentos back em Python e PHP. Atualmente estudando Java. <br>
      🌟 Conheciemntos front em CSS e HTML. Em um futuro não tão distante iniciarei em React. <br>
 </h4>
 
