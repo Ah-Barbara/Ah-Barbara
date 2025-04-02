@@ -4,7 +4,7 @@
      💻 Estudande de Analise e Desenvolvimento de Sistemas. <br>
      📝 Apaixonada por tecnologia, inovação e resolução de problemas. <br>
      🍵 Conhecimentos back em Python e PHP. Atualmente estudando Java. <br>
-     🌟 Conheciemntos front em CSS e HTML. Em um futuro não tão distante iniciarei em React. <br>
+     🌟 Conhecimentos front em CSS e HTML. Em um futuro não tão distante iniciarei em React. <br>
 </h4>
 
 
